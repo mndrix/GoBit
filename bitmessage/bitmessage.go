@@ -6,7 +6,7 @@ package bitmessage
 //Package for handling low-level Bitcoin messages
 
 import(
-	"mymath"
+	"github.com/mndrix/GoBit/mymath"
 	"log"
 	"net"
 	"bytes"

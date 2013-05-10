@@ -5,7 +5,7 @@
 package bitmessage
 
 import(
-	"mymath"
+	"github.com/mndrix/GoBit/mymath"
 )
 
 //TODO: change inventory to be able to handle everything?

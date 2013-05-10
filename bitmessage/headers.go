@@ -5,7 +5,7 @@
 package bitmessage
 
 import (
-	"mymath"
+	"github.com/mndrix/GoBit/mymath"
 )
 
 //TODO:test
